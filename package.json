@@ -1,5 +1,5 @@
 {
-  "name": "@lcu/docs",
+  "name": "@lowcodeunit/docs",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -7,7 +7,8 @@
     "start": "docusaurus start",
     "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
-    "deploy": "npm version patch && npm run build && npm publish ./build --access public",
+    "deploy": "npm version patch && npm run deploy:docs",
+    "deploy:docs": "npm version patch --prefix static && npm run build && npm publish ./build --access public",
     "deploy-gh-pages": "npm version patch && docusaurus deploy",
     "serve": "docusaurus serve"
   },
