@@ -2,7 +2,7 @@ module.exports = {
   title: 'Fathym Framework',
   tagline: 'Micro-Applications for Enterprises',
   url: 'https://www.fathym.com',
-  baseUrl: '',
+  baseUrl: '/docs/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'lowcodeunit', // Usually your GitHub org/user name.
