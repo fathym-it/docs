@@ -8,7 +8,7 @@
     "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
     "deploy": "npm version patch && npm run build && npm publish ./build --access public",
-    "deploy-gh-pages": "docusaurus deploy",
+    "deploy-gh-pages": "npm version patch && docusaurus deploy",
     "serve": "docusaurus serve"
   },
   "dependencies": {
