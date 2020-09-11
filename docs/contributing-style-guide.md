@@ -1,6 +1,6 @@
 ---
 id: contributing-style-guide
-title: Style Guide
+title: Contributing - Style Guide
 sidebar_label: Style Guide
 slug: /contributing/style-guide
 ---

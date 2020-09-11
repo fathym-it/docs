@@ -1,6 +1,6 @@
 ---
 id: contributing-pull-requests
-title: Pull Requests
+title: Contributing - Pull Requests
 sidebar_label: Pull Requests
 slug: /contributing/pull-requests
 ---
