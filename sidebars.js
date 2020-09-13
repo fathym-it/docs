@@ -1,6 +1,6 @@
 module.exports = {
   sidebar: {
-    Overview: ['introduction/overview', 'introduction/design-principals', 'introduction/micro-frontends'],
+    Introduction: ['introduction/overview', 'introduction/design-principals', 'introduction/micro-frontends'],
     'Getting Started': [
       'getting-started/overview',
       {

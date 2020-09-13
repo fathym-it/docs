@@ -1,5 +1,6 @@
 ---
 title: Introduction
+sidebar_label: Overview
 hide_title: true
 slug: /
 ---
