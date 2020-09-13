@@ -23,7 +23,7 @@ module.exports = {
         },
         // { to: 'blog', label: 'Blog', position: 'left' },
         {
-          href: 'https://github.com/napkin-ide/lcu-napkin-ide',
+          href: 'https://github.com/lowcodeunit/docs',
           label: 'GitHub',
           position: 'right',
         },
@@ -50,15 +50,15 @@ module.exports = {
           items: [
             {
               label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              href: 'https://stackoverflow.com/questions/tagged/lcu',
             },
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discordapp.com/invite/lcu',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/lcu',
             },
           ],
         },
@@ -86,12 +86,13 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/lowcodeunit/docs/edit/master/website/',
+          editUrl: 'https://github.com/lowcodeunit/docs/edit/master/docs/',
+          // routeBasePath: '/'
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl: 'https://github.com/lowcodeunit/docs/edit/master/website/blog/',
+          editUrl: 'https://github.com/lowcodeunit/docs/edit/master/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

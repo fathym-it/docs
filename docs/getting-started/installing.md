@@ -1,8 +1,7 @@
 ---
-id: contributing-overview
-title: Contributing - Overview
-sidebar_label: Overview
-slug: /contributing
+title: Getting Started - Installing
+sidebar_label: Installing
+slug: /gettings-started
 ---
 
 You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
