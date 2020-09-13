@@ -11,3 +11,9 @@ title: Micro-Frontends
 Taking on a micro approach to frontends or services requires a mature DevOps process that ensures an understanding of change, repeatable and trusted deployments, and an ability to orchestrate many versions of disparate apps into a single cohesive solutin...
 
 Our tech gonna help you do dat
+
+## Focused Teams
+
+Our take on verbiage for Autonomous Teams...  The relation to the right tech for the right job, and orchestrating disparate tech into a single solution across a vast set of developer skills... How a VueJS admin could be used to power a react site delivered through an Angular Host/Shell application?  Powered through State APIs built in C# and JS that utilized APIs built on C# and Java?  Hosted on a collection of azure cloud native and more generic (Kubernetes) infrastructure...
+
+The right skill, at the right time...
