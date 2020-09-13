@@ -30,7 +30,9 @@ For feedback and questions, chat with us on [**Discord**](https://discordapp.com
 
 (Open Technology Support) (Cross Technology Support)... Someway of describing it as Technology Agnostic...
 
-## Orechestrate Disparate Technology into Cohesive Solutions
+## Orechestrate Solutions
+
+Bring disparate technology into form as cohesive business solutions
 
 ### Atomic Design
 
@@ -39,6 +41,10 @@ https://atomicdesign.bradfrost.com/
 ### Component Driven Development
 
 https://blog.hichroma.com/component-driven-development-ce1109d56c8e
+
+### Micro-Services
+
+### Micro-Frontends
 
 ## Hybrid-Cloud
 
