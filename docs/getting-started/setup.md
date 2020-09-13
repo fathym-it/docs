@@ -6,7 +6,7 @@ slug: /gettings-started
 
 ## Fathym Account Creation
 
-### Organization
+### Organization Details
 
 ### Azure Connection
 
