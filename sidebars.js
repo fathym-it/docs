@@ -26,7 +26,13 @@ module.exports = {
         'For Devs': ['getting-started/for-devs/overview'],
       },
     ],
-    Guides: ['guides/overview'],
+    Guides: [
+      'guides/overview',
+      {
+        'Deployments': ['guides/deployments/overview'],
+        'Testing': ['guides/testing/overview'],
+      },
+    ],
     Developers: [
       {
         Infrastructure: ['developers/infrastructure/overview'],

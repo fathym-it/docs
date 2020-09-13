@@ -8,7 +8,7 @@ slug: /introduction/micro-frontends
 
 ## Flexible and Decoupled
 
-## Automated Deployments
+## Deployments and Testing
 
 Taking on a micro approach to frontends or services requires a mature DevOps process that ensures an understanding of change, repeatable and trusted deployments, and an ability to orchestrate many versions of disparate apps into a single cohesive solutin...
 

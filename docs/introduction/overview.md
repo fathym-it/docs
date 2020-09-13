@@ -11,7 +11,9 @@ Some marketing text... Maybe describing the burden of monolithic approaches and 
 
 Different than many low code and application technology, the Fatyhm Framework allows you to rely on your existing technology skills to deliver micro-applications to your users.  Everything you e...
 
-## Open Core and Open Source
+## Best Practices
+
+First and foremost, Fathym Framework will help you deliver repeatable best practices across your infrastructure, devops, and application development practices.  Whether delivering innovative, startup technology or trusted/secure/proven solutions...   Fathym Framework will support your team in delivering your chosen best practices to your chosen market.
 
 ## Low Code Units
 
@@ -20,6 +22,8 @@ Some good copy on what a low code unit is, how they work together to create cohe
 ## Virtual Developers
 
 Different than most low code/no code platforms, Fathym helps you developer repeatable automation on your own chosen technology stack.  Our virtual developers can be programmed to deliver the tech you choose, in a repeatable, migratable, and scalable way.  Enable Jr and Mid level devs to deliver with Sr dev quality, even enabling non-development worker roles to accomplish comples development / technology tasks...
+
+## Open Core and Open Source
 
 ## No Vendor Lock-In
 
