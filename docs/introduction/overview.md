@@ -12,3 +12,7 @@ Different than many low code and application technology, the Fatyhm Framework al
 ## Low Code Units
 
 Some good copy on what a low code unit is, how they work together to create cohesive end user experiences, and the shift in design practice
+
+## Virtual Developers
+
+Different than most low code/no code platforms, Fathym helps you developer repeatable automation on your own chosen technology stack.  Our virtual developers can be programmed to deliver the tech you choose, in a repeatable, migratable, and scalable way.  Enable Jr and Mid level devs to deliver with Sr dev quality, even enabling non-development worker roles to accomplish comples development / technology tasks...

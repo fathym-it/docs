@@ -10,4 +10,8 @@ slug: /state-apis
 
 ### SignalR / Web Sockets
 
-## Why use Fathym Framework to deliver your State APIs?
+## Why use State APIs?
+
+### Flexible and Decoupled
+
+### Easy Migrations

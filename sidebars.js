@@ -4,31 +4,39 @@ module.exports = {
     'Getting Started': [
       'getting-started/setup',
       {
-        'Try It': ['getting-started/installing'],
+        'Try It': [
+          {
+            'Micro-Frontends': ['getting-started/installing'],
+            IoT: ['getting-started/installing'],
+          },
+        ],
       },
       {
         'For Devs': ['getting-started/installing'],
       },
     ],
     Guides: ['guides/overview'],
-    'Developers': [
+    Developers: [
       {
-        Infrastructure: ['state-apis/overview'],
-        DevOps: ['state-apis/overview'],
+        Infrastructure: ['developers/infrastructure/overview'],
+        DevOps: ['developers/devops/overview'],
         'Low Code Units': [
-          'low-code-units/overview',
+          'developers/low-code-units/overview',
           {
-            'Micro-Frontends': ['low-code-units/micro-frontends/quick-start'],
+            'Micro-Frontends': ['developers/low-code-units/micro-frontends/quick-start'],
           },
           {
-            IoT: ['low-code-units/iot/quick-start'],
+            IoT: ['developers/low-code-units/iot/quick-start'],
           },
           {
-            'Data Flow': ['low-code-units/data-flow/quick-start'],
+            'Data Flow': ['developers/low-code-units/data-flow/quick-start'],
+          },
+          {
+            Documentation: ['developers/low-code-units/data-flow/quick-start'],
           },
         ],
-        'State APIs': ['state-apis/overview'],
-        'CLI': ['state-apis/overview'],
+        'State APIs': ['developers/state-apis/overview'],
+        CLI: ['developers/cli/overview'],
       },
     ],
     Contributing: ['contributing/overview', 'contributing/code-of-conduct', 'contributing/style-guide', 'contributing/pull-requests'],

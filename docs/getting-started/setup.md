@@ -4,18 +4,20 @@ sidebar_label: Setup
 slug: /gettings-started
 ---
 
-## Fathym Accountn Creation
+## Fathym Account Creation
 
-## Organization
+### Organization
 
-## Azure Connection
+### Azure Connection
 
 Why use Azure to start? and grow to supporting other hybrid clouds?
 
-## Fathym Framework Setup Explained
+### Fathym Framework Setup Explained
 
 Further details on what happens once you kick off the process
 
 ## Next Steps
 
 What do you do while a) your framework boots and b) after your framework boots
+
+### Install
