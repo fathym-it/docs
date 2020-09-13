@@ -2,17 +2,22 @@ module.exports = {
   sidebar: {
     Overview: ['introduction/overview', 'introduction/design-principals', 'introduction/micro-frontends'],
     'Getting Started': [
-      'getting-started/setup',
+      'getting-started/overview',
       {
         'Try It': [
+          'getting-started/try-it/overview',
           {
-            'Micro-Frontends': ['getting-started/installing'],
-            IoT: ['getting-started/installing'],
+            'Micro-Frontends': [
+              'getting-started/try-it/micro-frontends/overview',
+              'getting-started/try-it/micro-frontends/deploy-app',
+              'getting-started/try-it/micro-frontends/deploy-ide-blade',
+            ],
+            IoT: ['getting-started/try-it/iot/overview'],
           },
         ],
       },
       {
-        'For Devs': ['getting-started/installing'],
+        'For Devs': ['getting-started/for-devs/overview'],
       },
     ],
     Guides: ['guides/overview'],
@@ -32,7 +37,7 @@ module.exports = {
             'Data Flow': ['developers/low-code-units/data-flow/quick-start'],
           },
           {
-            Documentation: ['developers/low-code-units/data-flow/quick-start'],
+            Documentation: ['developers/low-code-units/documentation/quick-start'],
           },
         ],
         'State APIs': ['developers/state-apis/overview'],

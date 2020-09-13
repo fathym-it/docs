@@ -1,7 +1,7 @@
 ---
-title: Infrastructure - Overview
+title: Developers - Infrastructure
 sidebar_label: Overview
-slug: /infrastructure
+slug: /developers/infrastructure
 ---
 
 ## Infrastructure Management with Fathym

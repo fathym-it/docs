@@ -1,5 +1,5 @@
 ---
-title: Fathym Micro-Frontend - Quick Start
+title: Developers - LCUs - Micro-Frontend - Quick Start
 sidebar_label: Quick Start
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Documentation - Quick Start
+title: Developers - LCUs - Documentation - Quick Start
 sidebar_label: Quick Start
 ---
 

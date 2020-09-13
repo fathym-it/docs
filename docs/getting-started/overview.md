@@ -1,5 +1,5 @@
 ---
-title: Getting Started - Setup
+title: Getting Started
 sidebar_label: Setup
 slug: /gettings-started
 ---

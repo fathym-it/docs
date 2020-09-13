@@ -1,7 +1,7 @@
 ---
-title: Low Code Units - Overview
+title: Developers - LCUs
 sidebar_label: Overview
-slug: /low-code-units
+slug: /developers/low-code-units
 ---
 
 ## Low Code Units

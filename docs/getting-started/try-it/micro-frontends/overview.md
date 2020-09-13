@@ -1,7 +1,6 @@
 ---
-title: Guides
+title: Getting Started - Try It - Micro-Frontends
 sidebar_label: Overview
-slug: /guides
 ---
 
 ## Pull Requests

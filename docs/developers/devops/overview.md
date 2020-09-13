@@ -1,7 +1,7 @@
 ---
-title: DevOps - Overview
+title: Developers - DevOps
 sidebar_label: Overview
-slug: /devops
+slug: /developers/devops
 ---
 
 ## Infrastructure Management with Fathym

@@ -1,7 +1,7 @@
 ---
-title: State APIs - Overview
+title: Developers - State APIs
 sidebar_label: Overview
-slug: /state-apis
+slug: /developers/state-apis
 ---
 
 ## What is a State API?

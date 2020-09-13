@@ -1,5 +1,5 @@
 ---
-title: CLI - Overview
+title: Developers - CLI
 sidebar_label: Overview
 slug: /developers/cli
 ---
