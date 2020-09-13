@@ -2,6 +2,7 @@ module.exports = {
   sidebar: {
     Overview: ['introduction/overview', 'introduction/design-principals', 'introduction/micro-frontends'],
     'Getting Started': [
+      'getting-started/setup',
       {
         'Try It': ['getting-started/installing'],
       },
@@ -10,19 +11,26 @@ module.exports = {
       },
     ],
     Guides: ['guides/overview'],
-    'Low Code Units': [
-      'low-code-units/overview',
+    'Developers': [
       {
-        'Micro-Frontends': ['low-code-units/micro-frontends/quick-start'],
-      },
-      {
-        IoT: ['low-code-units/iot/quick-start'],
-      },
-      {
-        'Data Flow': ['low-code-units/data-flow/quick-start'],
+        Infrastructure: ['state-apis/overview'],
+        DevOps: ['state-apis/overview'],
+        'Low Code Units': [
+          'low-code-units/overview',
+          {
+            'Micro-Frontends': ['low-code-units/micro-frontends/quick-start'],
+          },
+          {
+            IoT: ['low-code-units/iot/quick-start'],
+          },
+          {
+            'Data Flow': ['low-code-units/data-flow/quick-start'],
+          },
+        ],
+        'State APIs': ['state-apis/overview'],
+        'CLI': ['state-apis/overview'],
       },
     ],
-    'Developer Tools': [],
     Contributing: ['contributing/overview', 'contributing/code-of-conduct', 'contributing/style-guide', 'contributing/pull-requests'],
   },
 };

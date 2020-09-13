@@ -18,10 +18,10 @@ module.exports = {
         {
           to: 'docs/',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: 'Framework',
           position: 'left',
         },
-        // { to: 'blog', label: 'Blog', position: 'left' },
+        // { to: 'blog', label: 'Learning', position: 'left' },
         {
           href: 'https://github.com/lowcodeunit/docs',
           label: 'GitHub',
