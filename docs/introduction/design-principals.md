@@ -25,3 +25,27 @@ For feedback and questions, chat with us on [**Discord**](https://discordapp.com
 - :x: You don't believe that traditional software process can be automated
 - :x: You don't like generated boiler-plates and best practices
 - :x: You prefer not to work with potential breaking changes and/or features not yet working properly as we improve it during the beta period
+
+## Technology Agnostic
+
+(Open Technology Support) (Cross Technology Support)... Someway of describing it as Technology Agnostic...
+
+## Orechestrate Disparate Technology into Cohesive Solutions
+
+### Atomic Design
+
+https://atomicdesign.bradfrost.com/
+
+### Component Driven Development
+
+https://blog.hichroma.com/component-driven-development-ce1109d56c8e
+
+## Hybrid-Cloud
+
+https://azure.microsoft.com/en-us/overview/what-is-hybrid-cloud-computing/
+
+### Microsoft Azure
+
+### Private Cloud
+
+### AWS, GCP, and other Cloud Providers

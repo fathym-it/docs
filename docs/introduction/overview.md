@@ -9,3 +9,6 @@ Some marketing text... Maybe describing the burden of monolithic approaches and 
 
 Different than many low code and application technology, the Fatyhm Framework allows you to rely on your existing technology skills to deliver micro-applications to your users.  Everything you e...
 
+## Low Code Units
+
+Some good copy on what a low code unit is, how they work together to create cohesive end user experiences, and the shift in design practice
