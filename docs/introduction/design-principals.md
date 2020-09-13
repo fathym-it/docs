@@ -1,5 +1,6 @@
 ---
-title: Design Principals
+title: Introduction - Design Principals
+sidebar_label: Design Principals
 ---
 
 ## Disclaimer

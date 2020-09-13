@@ -1,5 +1,7 @@
 ---
-title: Micro-Frontends
+title: Introduction - Micro-Frontends
+sidebar_label: Overview
+slug: /introduction/micro-frontends
 ---
 
 ## Monolithic to Micro

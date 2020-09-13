@@ -1,6 +1,12 @@
 module.exports = {
   sidebar: {
-    Introduction: ['introduction/overview', 'introduction/design-principals', 'introduction/micro-frontends'],
+    Introduction: [
+      'introduction/overview',
+      'introduction/design-principals',
+      {
+        'Mirco-Frontends': ['introduction/micro-frontends/overview'],
+      },
+    ],
     'Getting Started': [
       'getting-started/overview',
       {
