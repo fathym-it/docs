@@ -13,7 +13,7 @@ We provide everything you need to deliver your next cloud-native solution.  Star
 
 ## Best Practices
 
-First and foremost, Fathym Framework will help you deliver repeatable best practices across your infrastructure, devops, and application development practices.  Whether delivering innovative, startup technology or trusted/secure/proven solutions...   Fathym Framework will support your team in delivering your chosen best practices to your chosen market.
+At its core, Fathym Framework embraces a perspective of "We all do it a little different".  Technology is vast, and our chosen languages and frameworks should make what we do easier.  While our best practices are opinionated towards Azure, C#, and Angular, we recognize that every team is different.  Our framework will help you deliver your best practices repeatably through your infrastructure, devops, and application development decisions.  Whether delivering innovative, startup technology or proven legacy solutions, Fathym Framework will support your team in adopting and establishing best practices in a hybrid-cloud world.
 
 ## Low Code Units
 
@@ -21,7 +21,7 @@ Some good copy on what a low code unit is, how they work together to create cohe
 
 ## Virtual Developers
 
-Different than most low code/no code platforms, Fathym helps you developer repeatable automation on your own chosen technology stack.  Our virtual developers can be programmed to deliver the tech you choose, in a repeatable, migratable, and scalable way.  Enable Jr and Mid level devs to deliver with Sr dev quality, even enabling non-development worker roles to accomplish comples development / technology tasks...
+Different than most low code/no code platforms, Fathym helps you develop repeatable automation on your own chosen technology stack.  Our virtual developers can be programmed to deliver the tech you choose, in a repeatable, migratable, and scalable way.  Enable Jr and Mid level devs to deliver with Sr dev quality, even enabling non-development employment roles to accomplish complex development / technology tasks.
 
 ## Community Driven
 
