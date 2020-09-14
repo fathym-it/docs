@@ -33,7 +33,7 @@ For feedback and questions, chat with us on [**Discord**](https://discordapp.com
 
 ## Orechestrate Solutions
 
-Bring disparate technology into form as cohesive business solutions
+Bring disparate technology to bear as cohesive business solutions
 
 ### Micro-Services
 

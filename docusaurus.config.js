@@ -46,15 +46,15 @@ module.exports = {
           items: [
             {
               label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/lcu',
+              href: 'https://stackoverflow.com/questions/tagged/fathym',
             },
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/lcu',
+              href: 'https://discordapp.com/invite/fathym',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/lcu',
+              href: 'https://twitter.com/fathym',
             },
           ],
         },

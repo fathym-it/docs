@@ -51,7 +51,7 @@ module.exports = {
             CLI: ['developers/applications/cli/overview'],
           },
         ],
-        Infrastructure: ['developers/infrastructure/overview'],
+        Infrastructure: ['developers/infrastructure/overview', 'developers/infrastructure/cloud-native-vs-cloud-optimized'],
         DevOps: [
           'developers/devops/overview',
           {
