@@ -1,7 +1,7 @@
 ---
 title: Guides - Deployment
 sidebar_label: Overview
-slug: /guides/deployment
+slug: /developers/devops/deployment
 ---
 
 ## Pull Requests

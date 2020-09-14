@@ -24,6 +24,8 @@ After registering for a Starter or Pro package, you can let Fathym do the heavy 
 - Automate DevOp operations with application release/deployment and version management
 - Maximize reusability and save time in data application development
 
+Are you an expert cloud architect?  See how our tools can support you in establishing your own best practices and automation [document](developers/infrastructure)
+
 ### Automating a Best Practice Cloud-Native Environment
 
 With Fathym, you can quickly and easily set up a best practice cloud infrastructure environment for application orchestration and configuring end-to-end Internet of Things (IoT) data flow environments. With just a few clicks, Fathym sets up this infrastructure in your own Azure cloud environment, so it is always accessible and always yours. Users can simply sign into or create an Azure account and retrieve the required keys.

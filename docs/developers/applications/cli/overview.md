@@ -1,7 +1,7 @@
 ---
 title: Developers - CLI
 sidebar_label: Overview
-slug: /developers/cli
+slug: /developers/applications/cli
 ---
 
 ## CLI Composition
