@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Fathym Framework',
-  tagline: 'Micro-Applications for Enterprises',
+  tagline: 'Deliver cloud-native applications reliably across hybrid-clouds',
   url: 'https://www.fathym.com',
   baseUrl: '/framework/',
   onBrokenLinks: 'throw',

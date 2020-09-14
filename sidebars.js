@@ -22,6 +22,7 @@ module.exports = {
     ],
     Guides: [
       'guides/overview',
+      'guides/starting-without-azure',
       {
         'Mirco-Frontends': ['guides/micro-frontends/overview'],
         Testing: ['guides/testing/overview'],
@@ -32,22 +33,22 @@ module.exports = {
         Applications: [
           {
             'Low Code Units': [
-              'developers/low-code-units/overview',
+              'developers/applications/low-code-units/overview',
               {
-                'Micro-Frontends': ['developers/low-code-units/micro-frontends/quick-start'],
+                'Micro-Frontends': ['developers/applications/low-code-units/micro-frontends/quick-start'],
               },
               {
-                IoT: ['developers/low-code-units/iot/quick-start'],
+                IoT: ['developers/applications/low-code-units/iot/quick-start'],
               },
               {
-                'Data Flow': ['developers/low-code-units/data-flow/quick-start'],
+                'Data Flow': ['developers/applications/low-code-units/data-flow/quick-start'],
               },
               {
-                Documentation: ['developers/low-code-units/documentation/quick-start'],
+                Documentation: ['developers/applications/low-code-units/documentation/quick-start'],
               },
             ],
-            'State APIs': ['developers/state-apis/overview'],
-            CLI: ['developers/cli/overview'],
+            'State APIs': ['developers/applications/state-apis/overview'],
+            CLI: ['developers/applications/cli/overview'],
           },
         ],
         Infrastructure: ['developers/infrastructure/overview'],

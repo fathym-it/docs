@@ -13,7 +13,7 @@ For feedback and questions, chat with us on [**Discord**](https://discordapp.com
 
 - :white_check_mark: You want to deliver Micro-Frontends without creating your own internal framework
 - :white_check_mark: You want to begin migrating away from existing monolithic applications
-- :white_check_mark: You want to accelerate cloud adoption across your organization
+- :white_check_mark: You want to accelerate cloud adoption across your enterprise
 - :white_check_mark: You need the support of an enterprise technology team, without hiring all of the traditional resources
 - :white_check_mark: You want to enalbe a modern development cycle for your team
 - :white_check_mark: You want to provide feedback towards the framework
