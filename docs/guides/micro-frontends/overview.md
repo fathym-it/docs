@@ -1,10 +1,12 @@
 ---
 title: Introduction - Micro-Frontends
 sidebar_label: Overview
-slug: /introduction/micro-frontends
+slug: /guides/micro-frontends
 ---
 
 ## Monolithic to Micro
+
+Some marketing text... Maybe describing the burden of monolithic approaches and how Fathym embraces micro-frontend and micro-services to deal with those burdens...  How we fill in the gaps/solve problems of traditional dev cycles, decrease the need for monolithic teams (we support you with your chosen best practices where your team needs ), solve issues of bringing your own MF/MS framework online...  THrouh ourproduction ready micro-app runtime.
 
 ## Flexible and Decoupled
 

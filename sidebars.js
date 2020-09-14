@@ -1,12 +1,6 @@
 module.exports = {
   sidebar: {
-    Introduction: [
-      'introduction/overview',
-      'introduction/design-principals',
-      {
-        'Mirco-Frontends': ['introduction/micro-frontends/overview'],
-      },
-    ],
+    Introduction: ['introduction/overview', 'introduction/design-principals'],
     'Getting Started': [
       'getting-started/overview',
       {
@@ -29,31 +23,40 @@ module.exports = {
     Guides: [
       'guides/overview',
       {
-        'Deployments': ['guides/deployments/overview'],
-        'Testing': ['guides/testing/overview'],
+        'Mirco-Frontends': ['guides/micro-frontends/overview'],
+        Testing: ['guides/testing/overview'],
       },
     ],
     Developers: [
       {
-        Infrastructure: ['developers/infrastructure/overview'],
-        DevOps: ['developers/devops/overview'],
-        'Low Code Units': [
-          'developers/low-code-units/overview',
+        Applications: [
           {
-            'Micro-Frontends': ['developers/low-code-units/micro-frontends/quick-start'],
-          },
-          {
-            IoT: ['developers/low-code-units/iot/quick-start'],
-          },
-          {
-            'Data Flow': ['developers/low-code-units/data-flow/quick-start'],
-          },
-          {
-            Documentation: ['developers/low-code-units/documentation/quick-start'],
+            'Low Code Units': [
+              'developers/low-code-units/overview',
+              {
+                'Micro-Frontends': ['developers/low-code-units/micro-frontends/quick-start'],
+              },
+              {
+                IoT: ['developers/low-code-units/iot/quick-start'],
+              },
+              {
+                'Data Flow': ['developers/low-code-units/data-flow/quick-start'],
+              },
+              {
+                Documentation: ['developers/low-code-units/documentation/quick-start'],
+              },
+            ],
+            'State APIs': ['developers/state-apis/overview'],
+            CLI: ['developers/cli/overview'],
           },
         ],
-        'State APIs': ['developers/state-apis/overview'],
-        CLI: ['developers/cli/overview'],
+        Infrastructure: ['developers/infrastructure/overview'],
+        DevOps: [
+          'developers/devops/overview',
+          {
+            Deployments: ['developers/devops/deployments/overview'],
+          },
+        ],
       },
     ],
     Contributing: ['contributing/overview', 'contributing/code-of-conduct', 'contributing/style-guide', 'contributing/pull-requests'],

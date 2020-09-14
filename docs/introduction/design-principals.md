@@ -35,6 +35,10 @@ For feedback and questions, chat with us on [**Discord**](https://discordapp.com
 
 Bring disparate technology into form as cohesive business solutions
 
+### Micro-Services
+
+### Micro-Frontends
+
 ### Atomic Design
 
 https://atomicdesign.bradfrost.com/
@@ -42,10 +46,6 @@ https://atomicdesign.bradfrost.com/
 ### Component Driven Development
 
 https://blog.hichroma.com/component-driven-development-ce1109d56c8e
-
-### Micro-Services
-
-### Micro-Frontends
 
 ## Hybrid-Cloud
 

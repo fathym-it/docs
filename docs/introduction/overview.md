@@ -7,9 +7,9 @@ slug: /
 
 # What is Fathym Framework?
 
-Some marketing text... Maybe describing the burden of monolithic approaches and how Fathym embraces micro-frontend and micro-services to deal with those burdens...  How we fill in the gaps/solve problems of traditional dev cycles, decrease the need for monolithic teams (we support you with your chosen best practices where your team needs ), solve issues of bringing your own MF/MS framework online...  THrouh ourproduction ready micro-app runtime.
+A framework for delivering applications reliably across hybrid-clouds.  
 
-Different than many low code and application technology, the Fatyhm Framework allows you to rely on your existing technology skills to deliver micro-applications to your users.  Everything you e...
+We provide everything you need to deliver your next cloud-native solution.  Start from scratch with out-of-the box functionality, or select the features you need.  Leverage the Fathym Framework to establish your enterprise best practices and deliver solutions with your existing technology skills.
 
 ## Best Practices
 
@@ -23,7 +23,9 @@ Some good copy on what a low code unit is, how they work together to create cohe
 
 Different than most low code/no code platforms, Fathym helps you developer repeatable automation on your own chosen technology stack.  Our virtual developers can be programmed to deliver the tech you choose, in a repeatable, migratable, and scalable way.  Enable Jr and Mid level devs to deliver with Sr dev quality, even enabling non-development worker roles to accomplish comples development / technology tasks...
 
-## Open Core and Open Source
+## Community Driven
+
+Open Core and Open Source... We know we don't have all the answers, and it takes a community to shift the way we think about putting together technology solutions
 
 ## No Vendor Lock-In
 
