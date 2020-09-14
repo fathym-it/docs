@@ -11,7 +11,7 @@ The Fathym Framework is focused on helping you take charge of your clouds, appli
   - Azure Connection
   - Setup Review
 
-For setups that would like a hybrid-cloud without Azure connectivity, please visit [document](guides/starting-without-azure)
+For setups that would like a hybrid-cloud without Azure connectivity, please visit [Starting without Azure](guides/starting-without-azure)
 
 ## Fathym Account Creation
 
@@ -24,7 +24,7 @@ After registering for a Starter or Pro package, you can let Fathym do the heavy 
 - Automate DevOp operations with application release/deployment and version management
 - Maximize reusability and save time in data application development
 
-Are you an expert cloud architect?  See how our tools can support you in establishing your own best practices and automation [document](developers/infrastructure)
+Are you an expert cloud architect?  See how our tools can support you in establishing your own [best practices and automation](developers/infrastructure)
 
 ### Automating a Best Practice Cloud-Native Environment
 
@@ -58,4 +58,4 @@ Further details on what happens once you kick off the process
 
 What do you do while a) your framework boots and b) after your framework boots
 
-### Install
+### Install CLI
