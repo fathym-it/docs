@@ -5,11 +5,11 @@ sidebar_label: Setup
 slug: /gettings-started
 ---
 
-## Fathym Account Setup
+# Fathym Account Setup
 
-The Fathym Framework is focused on helping you take charge of your clouds, applications, and deployment strategies.  It enables developers to rapidly build data-driven applications by applying best practice workflows for cloud infrastructure automation and application management. 
+The Fathym Framework is focused on helping you take charge of your clouds, applications, and deployment strategies.  It enables developers to rapidly build data-driven applications by applying best practice workflows for cloud infrastructure automation and application management.
 
-In this getting started guide, we'll walk you through creating an automated, enterprise-grade, Azure-hosted environment with just a few clicks.  We'll setup the following to get you started:
+In this getting started guide, we'll walk you through creating an automated, enterprise-grade, Azure-hosted environment with just a few clicks.  To kick things off register and select a [Starter or Pro](https://www.fathym-it.com/billing/lcu) package.  Once registered we'll help you setup the following to get you started:
 
 - Infrastructure
   - Enterprise-scalable, cost-effective Azure cloud
@@ -25,23 +25,9 @@ In this getting started guide, we'll walk you through creating an automated, ent
 
 For setups that would like a hybrid-cloud without Azure connectivity, please visit [Starting without Azure](guides/starting-without-azure)
 
-Are you an expert cloud architect?  See how our tools can support you in establishing your own [best practices and automation](developers/infrastructure)
+If you have any questions as you work through the setup process, continue reading here.
 
-To kick things off register and select a [Starter or Pro](https://www.fathym-it.com/billing/lcu) package.  If you have any questions about the setup process, continue reading here.
-
-### Prerequisites
-
-Before setting up the Fathym Framework you will need to set up a Microsoft account for your organization so Fathym can connect with Microsoft Azure. This way everything you create in Fathym is provisioned in your own Azure infrastructure, meaning you maintain all ownership and we don't lock you in.
-
-Note that Azure charges you incur will be billed back to you. If you are setting up a new Azure account, you will get a $200 credit to use within 30 days, as well as 12 months of many services for free.
-
-:::important
-
-In order to have access to the necessary permissions and settings required for setup in Azure, your Azure account needs to be at the administrator level.
-
-:::
-
-### Enterprise Details
+## Enterprise Details
 
 With the Frathym Framework, everything starts from your enterprise.  Whether a one man show, or a dev team, your enterprise will allow you to create infrastructure, manage devops and deploy applications.  We'll start you on a domain within our control, and provide you the journeys to run on your own domains and even white-label our framework and practices for your end users.
 
@@ -51,11 +37,23 @@ With the Frathym Framework, everything starts from your enterprise.  Whether a o
 
 **Workspace Lookup** The lookup will be used to identify your Fathym Framework environment, and to uniquely identify and group the resources provisioned.   (Required to contain 3 - 12 charaters, lowercase characters a-z with '-' and numbers 0-9. A '-' may not start or end the value.)
 
-### Azure Connection
+## Azure Connection
 
-Why use Azure to start? and grow to supporting other hybrid clouds?
+Before setting up the Fathym Framework you will need to set up a Microsoft account for your organization so Fathym can connect with Microsoft Azure. This way everything you create in Fathym is provisioned in your own Azure infrastructure, meaning you maintain all ownership and we don't lock you in.
 
-#### Create a New Registration
+:::note
+
+Azure charges you incur will be billed back to you. If you are setting up a new Azure account, you will get a $200 credit to use within 30 days, as well as 12 months of many services for free.
+
+:::
+
+:::important
+
+In order to have access to the necessary permissions and settings required for setup in Azure, your Azure account needs to be at the administrator level.
+
+:::
+
+### Create a New Registration
 
 - From the Azure portal, select Azure Active Directory.
 - From the left menu pane, select App registrations, then click +New Registration.
@@ -69,7 +67,7 @@ Why use Azure to start? and grow to supporting other hybrid clouds?
   - Click Register.
 - Close this pane using the X in the upper-right corner. Your application should display on the App registrations page under the Owned Applications tab.
 
-#### Generate an App Auth Key
+### Generate an App Auth Key
 
 To generate the value for the Azure App Auth key:
 
@@ -81,7 +79,7 @@ To generate the value for the Azure App Auth key:
 
 ![Workspace Setup - Azure App Auth Key](/img/screenshots/workspace-setup-azure-app-auth-key.png)
 
-#### Locate Your Azure App Auth Key
+### Locate Your Azure App Auth Key
 
 - To retrieve the Azure App Auth key value from Azure, go to the left menu pane of your organization’s App Registration page, then select Certificates & secrets.
 - Locate your client secret and hover over the alphanumeric value to invoke the copy function.
@@ -93,7 +91,7 @@ Once you copy the secret’s value it is not retrievable again.
 
 :::
 
-#### Set Up an Azure Contributor Role
+### Set Up an Azure Contributor Role
 
 You will need to connect your Azure registration with your account.
 
@@ -112,7 +110,7 @@ You will need to connect your Azure registration with your account.
 
 You should see a banner popup confirming the role assignment, and the new contributor you added should display on the main section of the screen.
 
-### Automating a Best Practice Environment
+## Automating a Best Practice Environment
 
 With Fathym, you can quickly and easily set up a best practice cloud infrastructure environment..  Here you'll be able to deploy the tools and solutions of your choosing, like our application orchestration and data flow management LCUs. With just a few clicks, Fathym sets you up a cloud-native enable Azure cloud environment, so it is always accessible and always yours.
 
@@ -133,5 +131,7 @@ Further details on what happens once you kick off the process
 ## Next Steps
 
 What do you do while a) your framework boots and b) after your framework boots
+
+Are you an expert cloud architect?  See how our tools can support you in establishing your own [best practices and automation](developers/infrastructure)
 
 ### Install CLI
