@@ -11,6 +11,7 @@ module.exports = {
               'getting-started/try-it/micro-frontends/overview',
               'getting-started/try-it/micro-frontends/deploy-app',
               'getting-started/try-it/micro-frontends/deploy-ide-blade',
+              'getting-started/try-it/micro-frontends/create-deploy-custom-lcu',
             ],
             IoT: ['getting-started/try-it/iot/overview'],
           },

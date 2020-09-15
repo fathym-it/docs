@@ -126,12 +126,18 @@ Re-write this to another page under developers and link to it... [Fathym Support
 
 ## Next Steps
 
-What do you do while a) your framework boots and b) after your framework boots
+There are a number of ways to leverage your LCU Runtime once complete, and for this guide we'll focus on leveraging the Fathym LCU CLI to create and deliver your first micro-frontends (one standalone app and one IDE blade).  If this isn't what your looking to accomplish, once your IDE is ready, you'll be greeted with a number of developer journeys to get you started.
 
-Are you an expert cloud architect?  See how our tools can support you in establishing your own [best practices and automation](developers/infrastructure)
+What do you do while a) your framework boots and b) after your framework boots
 
 ### Install CLI
 
 ### Setup GitHub User
 
 ### Setup NPM User & Organization
+
+### Create your first Micro-Frontends
+
+### Deploying to Fathym Runtime
+
+### Where to go from here?

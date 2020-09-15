@@ -13,6 +13,8 @@ We provide everything you need to deliver your next cloud-native solution.  Star
 
 **Fathym saves you time** by doing the heavy lifting of backend infrastructure and workflow automation so that you don't need to spend time and resources to "level up" and become an expert cloud architect.  
 
+Are you an expert cloud architect?  See how our tools can support you in establishing your own [best practices and automation](developers/infrastructure)
+
 ## Best Practices
 
 At its core, Fathym Framework embraces a technology agnostic approach to its orchestration tools.  Technology is vast, and our chosen languages and frameworks should work together to deliver cohesive solutions across seemingly disparate tech stacks.  We'll help you establish your enterprise best practices in a way that streamlines development while leveraging your existing tech skillset.  
