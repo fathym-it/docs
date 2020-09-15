@@ -6,4 +6,14 @@ sidebar_label: Create & Deploy LCU
 
 # Create & Deploy Custom LCUs
 
-## Pull Requests
+## Prerequisites
+
+### Install CLI
+
+### Setup GitHub User
+
+### Setup NPM User & Organization
+
+## Create your first Micro-Frontends
+
+## Deploying to Fathym Runtime

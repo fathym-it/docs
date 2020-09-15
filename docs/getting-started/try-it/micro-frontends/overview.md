@@ -5,5 +5,3 @@ sidebar_label: Overview
 ---
 
 # Try Micro-Frontends
-
-## Pull Requests
