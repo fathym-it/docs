@@ -1,8 +1,11 @@
 ---
 title: Getting Started
+hide_title: true
 sidebar_label: Setup
 slug: /gettings-started
 ---
+
+## Fathym Account Setup
 
 The Fathym Framework is focused on helping you take charge of your clouds, applications, and deployment strategies.  It enables developers to rapidly build data-driven applications by applying best practice workflows for cloud infrastructure automation and application management. 
 
@@ -22,13 +25,21 @@ In this getting started guide, we'll walk you through creating an automated, ent
 
 For setups that would like a hybrid-cloud without Azure connectivity, please visit [Starting without Azure](guides/starting-without-azure)
 
-## Fathym Account Creation
-
-**Fathym saves you time** by doing the heavy lifting of backend infrastructure and workflow automation so that you don't need to spend time and resources to "level up" and become an expert cloud architect.  
-
 Are you an expert cloud architect?  See how our tools can support you in establishing your own [best practices and automation](developers/infrastructure)
 
 To kick things off register and select a [Starter or Pro](https://www.fathym-it.com/billing/lcu) package.  If you have any questions about the setup process, continue reading here.
+
+### Prerequisites
+
+Before setting up the Fathym Framework you will need to set up a Microsoft account for your organization so Fathym can connect with Microsoft Azure. This way everything you create in Fathym is provisioned in your own Azure infrastructure, meaning you maintain all ownership and we don't lock you in.
+
+Note that Azure charges you incur will be billed back to you. If you are setting up a new Azure account, you will get a $200 credit to use within 30 days, as well as 12 months of many services for free.
+
+:::important
+
+In order to have access to the necessary permissions and settings required for setup in Azure, your Azure account needs to be at the administrator level.
+
+:::
 
 ### Enterprise Details
 
@@ -44,17 +55,62 @@ With the Frathym Framework, everything starts from your enterprise.  Whether a o
 
 Why use Azure to start? and grow to supporting other hybrid clouds?
 
-#### Prerequisites
+#### Create a New Registration
 
-Before setting up the Fathym Framework you will need to set up a Microsoft account for your organization so Fathym can connect with Microsoft Azure. This way everything you create in Fathym is provisioned in your own Azure infrastructure, meaning you maintain all ownership and we don't lock you in.
+- From the Azure portal, select Azure Active Directory.
+- From the left menu pane, select App registrations, then click +New Registration.
+- On Register an application, complete the following fields:
+  - Name 
+    - This is your Display Name value.
+  - Supported Account Types
+    - Select the Accounts in this organizational directory only option.
+  - Redirect URI
+    - Enter a web value, for example, https://www.yourcompany.com.
+  - Click Register.
+- Close this pane using the X in the upper-right corner. Your application should display on the App registrations page under the Owned Applications tab.
 
-Note that Azure charges you incur will be billed back to you. If you are setting up a new Azure account, you will get a $200 credit to use within 30 days, as well as 12 months of many services for free.
+#### Generate an App Auth Key
 
-:::important
+To generate the value for the Azure App Auth key:
 
-In order to have access to the necessary permissions and settings required for setup in Azure, your Azure account needs to be at the administrator level.
+- From the left menu pane of your organization’s App Registration page in Azure, select Certificates & secrets.
+  - A client secret is an alphanumeric string Azure uses to verify its identity when requesting a token.
+- In the Client secrets section, click + New client secret.
+- Enter a useful description, specify the expiration date, then click Add.
+  - Example description: Fathym Platform Key.
+
+![Workspace Setup - Azure App Auth Key](/img/screenshots/workspace-setup-azure-app-auth-key.png)
+
+#### Locate Your Azure App Auth Key
+
+- To retrieve the Azure App Auth key value from Azure, go to the left menu pane of your organization’s App Registration page, then select Certificates & secrets.
+- Locate your client secret and hover over the alphanumeric value to invoke the copy function.
+- Paste the new value in the Azure App Auth key field in Fathym.
+
+:::note
+
+Once you copy the secret’s value it is not retrievable again.
 
 :::
+
+#### Set Up an Azure Contributor Role
+
+You will need to connect your Azure registration with your account.
+
+- From the Azure portal home page, select Subscriptions. Alternatively, you can type subscriptions in the search box at the top of the page.
+- On the Subscriptions page, select a valid subscription for your organization.
+
+![Workspace Setup - Azure Contributor Role](/img/screenshots/workspace-setup-azure-contributor-role.jpg)
+
+- On the left pane menu, select Access control (IAM).
+- On the Access control (IAM) page, select the Role assignments tab.
+- Click + Add, then select Add role assignment.
+- On the Add role assignment pane on the right, select Contributor for the Role field.
+- Select Azure AD user, group, or service principal for the Assign access to field.
+- Select the registration you created in the previous section for the Select field.
+- Click Save.
+
+You should see a banner popup confirming the role assignment, and the new contributor you added should display on the main section of the screen.
 
 ### Automating a Best Practice Environment
 

@@ -11,6 +11,8 @@ A framework for delivering cloud-native applications reliably across hybrid-clou
 
 We provide everything you need to deliver your next cloud-native solution.  Start from scratch with out-of-the box functionality, or select the features you need.  Leverage the Fathym Framework to establish your enterprise best practices and deliver solutions with your existing technology skills.
 
+**Fathym saves you time** by doing the heavy lifting of backend infrastructure and workflow automation so that you don't need to spend time and resources to "level up" and become an expert cloud architect.  
+
 ## Best Practices
 
 At its core, Fathym Framework embraces a perspective of "We all do it a little different".  Technology is vast, and our chosen languages and frameworks should make what we do easier.  While our best practices lean towards Azure, C#, and Angular, we recognize that every team is different.  Our framework will help you deliver your best practices repeatably through your infrastructure, devops, and application development decisions.  Whether delivering innovative, startup technology or proven legacy solutions, Fathym Framework will support your team in adopting and establishing best practices in a hybrid-cloud world.
