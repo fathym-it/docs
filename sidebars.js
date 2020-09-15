@@ -23,8 +23,8 @@ module.exports = {
     Guides: [
       'guides/overview',
       'guides/starting-without-azure',
+      'guides/migrating-from-fathym',
       {
-        'Mirco-Frontends': ['guides/micro-frontends/overview'],
         Testing: ['guides/testing/overview'],
       },
     ],
@@ -35,9 +35,6 @@ module.exports = {
             'Low Code Units': [
               'developers/applications/low-code-units/overview',
               {
-                'Micro-Frontends': ['developers/applications/low-code-units/micro-frontends/quick-start'],
-              },
-              {
                 IoT: ['developers/applications/low-code-units/iot/quick-start'],
               },
               {
@@ -47,6 +44,7 @@ module.exports = {
                 Documentation: ['developers/applications/low-code-units/documentation/quick-start'],
               },
             ],
+            'Micro-Frontends': ['developers/applications/micro-frontends/quick-start'],
             Identity: ['developers/applications/identity/overview'],
             Security: ['developers/applications/security/overview'],
             'State APIs': ['developers/applications/state-apis/overview'],

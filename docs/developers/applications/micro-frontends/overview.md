@@ -1,7 +1,7 @@
 ---
 title: Introduction - Micro-Frontends
 sidebar_label: Overview
-slug: /guides/micro-frontends
+slug: /developers/applications/micro-frontends
 ---
 
 ## Monolithic to Micro
