@@ -25,8 +25,6 @@ In this getting started guide, we'll walk you through creating an automated, ent
 
 For setups that would like a hybrid-cloud without Azure connectivity, please visit [Starting without Azure](guides/starting-without-azure)
 
-If you have any questions as you work through the setup process, continue reading here.
-
 ## Enterprise Details
 
 With the Frathym Framework, everything starts from your enterprise.  Whether a one man show, or a dev team, your enterprise will allow you to create infrastructure, manage devops and deploy applications.  We'll start you on a domain within our control, and provide you the journeys to run on your own domains and even white-label our framework and practices for your end users.
@@ -124,9 +122,7 @@ The video below compares configuring these resources in Fathym versus the Azure 
   <iframe src="https://www.youtube.com/embed/UTUD4kBfEBo" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Re-write this to another page under developers... [Fathym Support Exploained](https://support.fathym.com/docs/en/registration)
-
-Further details on what happens once you kick off the process
+Re-write this to another page under developers and link to it... [Fathym Support Exploained](https://support.fathym.com/docs/en/registration)
 
 ## Next Steps
 
@@ -135,3 +131,7 @@ What do you do while a) your framework boots and b) after your framework boots
 Are you an expert cloud architect?  See how our tools can support you in establishing your own [best practices and automation](developers/infrastructure)
 
 ### Install CLI
+
+### Setup GitHub User
+
+### Setup NPM User & Organization

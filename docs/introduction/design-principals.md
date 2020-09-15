@@ -5,7 +5,7 @@ sidebar_label: Design Principals
 
 ## Disclaimer
 
-While our product is officially in Beta, the framework, architecture, and applications running on Fathym Framework have been in production for half a decade.  We have used this framework to deliver numerous customer offerings, and are excited to bring it to product in a self service way.  We encourage you to use our framework to streamline and simplify the way you deliver, architect, and manage your technology.
+While our product is officially in Beta, the framework, architecture, and applications running on Fathym Framework have been in production for half a decade.  We have used this framework to deliver numerous customer offerings, and are excited to bring it to product in a self service way.  We encourage you to use our framework to streamline and simplify the way you architect, deliver, and manage your technology.
 
 For feedback and questions, chat with us on [**Discord**](https://discordapp.com/invite/lcu) :wink:
 

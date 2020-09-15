@@ -29,6 +29,8 @@ module.exports = {
       },
     ],
     Developers: [
+      'developers/overview',
+      'developers/no-vendor-lock-in',
       {
         Applications: [
           {
