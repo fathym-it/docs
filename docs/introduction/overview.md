@@ -13,7 +13,7 @@ We provide everything you need to deliver your next cloud-native solution.  Star
 
 ## Best Practices
 
-At its core, Fathym Framework embraces a perspective of "We all do it a little different".  Technology is vast, and our chosen languages and frameworks should make what we do easier.  While our best practices are opinionated towards Azure, C#, and Angular, we recognize that every team is different.  Our framework will help you deliver your best practices repeatably through your infrastructure, devops, and application development decisions.  Whether delivering innovative, startup technology or proven legacy solutions, Fathym Framework will support your team in adopting and establishing best practices in a hybrid-cloud world.
+At its core, Fathym Framework embraces a perspective of "We all do it a little different".  Technology is vast, and our chosen languages and frameworks should make what we do easier.  While our best practices lean towards Azure, C#, and Angular, we recognize that every team is different.  Our framework will help you deliver your best practices repeatably through your infrastructure, devops, and application development decisions.  Whether delivering innovative, startup technology or proven legacy solutions, Fathym Framework will support your team in adopting and establishing best practices in a hybrid-cloud world.
 
 ## Community Driven
 

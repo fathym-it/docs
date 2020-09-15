@@ -47,6 +47,8 @@ module.exports = {
                 Documentation: ['developers/applications/low-code-units/documentation/quick-start'],
               },
             ],
+            Identity: ['developers/applications/identity/overview'],
+            Security: ['developers/applications/security/overview'],
             'State APIs': ['developers/applications/state-apis/overview'],
             CLI: ['developers/applications/cli/overview'],
           },
