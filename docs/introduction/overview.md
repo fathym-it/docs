@@ -29,7 +29,7 @@ Open Source... We know we don't have all the answers, and it takes a community t
 
 In order to bring greater trust and flexibility to the open source code we use, Fathym suggests development of community driven LCUs that can be orchestrated to achieve dynamic product solutions.  It is a semantic architecture and approach for building reusable web components and controls, with base SDKs for developing your own LCUs (currently only available in TypeScript/Angular).
 
-LCUs allow you to build your frontend components in a reusable way, in the languages you prefer, and then easily upgrade, manage and even migrate frameworks.  We embrace component driven, state-based, atomic reusability in LCUs, read more on [LCUs](developers/applications/low-code-units/overview) and [micro-frontend](developers/applications/micro-frontends/overview) capabilities.
+LCUs allow you to build your frontend components in a reusable way, in the languages you prefer, and then easily upgrade, manage and even migrate frameworks.  We embrace component driven, state-based, atomic reusability in LCUs, read more on [LCUs](developers/applications/low-code-units) and [micro-frontend](developers/applications/micro-frontends) capabilities.
 
 ## Virtual Developers
 
