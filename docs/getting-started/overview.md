@@ -141,7 +141,7 @@ Once you copy the secret’s value it is not retrievable again.
   - The Low Code Unit Runtime Template w/ IoT installs all of the above and will provision the infrastructure to connect devices and real-time data flows, enabling Internet of Things (IoT) projects. This includes the initial best practice Data Flow resources, like an IoT Hub, Event Hub, Cold Storage, Warm Storage, and Hot Storage.
 - Click Review and Launch
 
-## Launch your Automated a Best Practice Environment
+## Launch your Automated Best Practice Environment
 
 Once you've reviewed your setup, click to Finalize and Deploy your Workspace.
 

@@ -17,13 +17,13 @@ Are you an expert cloud architect?  See how our tools can support you in establi
 
 ## Best Practices
 
-At its core, Fathym Framework embraces a technology agnostic approach to its orchestration tools.  Technology is vast, and our chosen languages and frameworks should work together to deliver cohesive solutions across seemingly disparate tech stacks.  We'll help you establish your enterprise best practices in a way that streamlines development while leveraging your existing tech skillset.  
+At its core, Fathym Framework embraces a technology agnostic approach to its orchestration tools.  Technology is vast, and our chosen languages and frameworks should work together to deliver cohesive solutions across seemingly disparate tech stacks.  We'll help you establish your enterprise best practices in a way that streamlines development while leveraging your existing tech skillsets.  
 
-Our team best practices lean towards Azure, C#, and TypeScript/Angular, we recognize that every team is different.  Our framework will help you establish best practices and ensure them across infrastructure, devops, and application development decisions.  Whether delivering innovative, startup technology or proven legacy solutions, Fathym Framework will support your team in adopting and establishing best practices in a hybrid-cloud world.
+Our team best practices lean towards Azure, C#, and TypeScript/Angular, but we recognize that every team is different.  Our framework will help you establish best practices and ensure them across infrastructure, devops, and application development decisions.  Whether delivering innovative, startup technology or proven legacy solutions, Fathym Framework will support your team in adopting and establishing best practices in a hybrid-cloud world.
 
 ## Community Open Source
 
-Open Source... We know we don't have all the answers, and it takes a community to shift the way we think about putting together technology solutions
+We believe it is important to provide valuable solutions and contributions to open source project.  On top of open sourcing most of our technology, we believe in adopting and supporting other existing open source projects.  We know we don't have all the answers, and by working with different communities we can achieve more.  Sharing knowledge is the purpose of open source, and we hope to make more of that knowledge accesible to more users.
 
 ## Low Code Units (LCUs)
 

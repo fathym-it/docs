@@ -19,7 +19,7 @@ For feedback and questions, chat with us on [**Discord**](https://discordapp.com
 - :white_check_mark: You want to provide feedback towards the framework
 - :white_check_mark: You are curious about what comes next as a Fathym Framework user
 - :white_check_mark: You want a starting point of best-practices to accelerate adoption and usage of technology 
-- :white_check_mark: You want to ease the pain of migration in future
+- :white_check_mark: You want to ease the pain of migration in the future
 
 **Do not use this if:**
 
