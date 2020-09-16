@@ -20,6 +20,7 @@ module.exports = {
       {
         'For Devs': ['getting-started/for-devs/overview'],
       },
+      'getting-started/what-is-fathym-framework',
     ],
     Guides: [
       'guides/overview',
