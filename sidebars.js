@@ -22,6 +22,7 @@ module.exports = {
       },
       'getting-started/what-is-fathym-framework',
       'getting-started/design-principals',
+      'getting-started/what-is-a-journey',
     ],
     Guides: ['guides/overview', 'guides/starting-without-azure', 'guides/migrating-from-fathym'],
     Developers: [

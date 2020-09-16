@@ -7,10 +7,11 @@ slug: /gettings-started
 
 # Fathym Account Setup
 
-It enables developers to rapidly build data-driven applications by applying best practice workflows for cloud infrastructure automation and application management.
+Fathym Framework enables developers to rapidly build data-driven applications by applying best practice workflows for cloud infrastructure automation and application management.
 
-In this getting started guide, we'll walk you through creating an automated, enterprise-grade, Azure-hosted environment with just a few clicks.  To kick things off, register and select a [Starter or Pro](https://www.fathym-it.com/billing/lcu) package.  Once registered we'll help you setup the following to get you going:
+In this getting started guide, we'll walk you through creating an automated, enterprise-grade, Azure-hosted environment with just a few clicks.  To kick things off, register and select a [Starter or Pro](https://www.fathym-it.com/billing/lcu) package.  Once registered, we'll help you get things setup.
 
+<!-- 
 - Infrastructure
   - Enterprise-scalable, cost-effective Azure cloud
   - Manage clouds, and legacy infrastructure with enterprise orchestration tools
@@ -23,11 +24,11 @@ In this getting started guide, we'll walk you through creating an automated, ent
   - Provide best practices in building essential data flows and cloud storage
   - Maximize reusability and save time in data application development
 
-For setups that would like a hybrid-cloud without Azure connectivity, please visit [Starting without Azure](guides/starting-without-azure)
+For setups that would like a hybrid-cloud without Azure connectivity, please visit [Starting without Azure](guides/starting-without-azure) -->
 
 ## Enterprise Details
 
-With the Frathym Framework, everything starts from your enterprise.  Whether a one man show, or a dev team, your enterprise will allow you to create infrastructure, manage devops and deploy applications.  We'll start you on a domain within our control, and provide you the journeys to run on your own domains and even white-label our framework and practices for your end users.
+With the Frathym Framework, everything starts from your enterprise.  Whether a one man show, or a dev team, your enterprise will allow you to manage infrastructure, devops and applications.  We'll start you on a domain within our control, and provide you the journeys to run on your own domains and even white-label our framework and practices for your end users.
 
 ![Workspace Setup - Workspace Details](/img/screenshots/workspace-setup-workspace-details.png)
 
