@@ -7,7 +7,7 @@ sidebar_label: What is Farthym Framework?
 
 We provide everything you need to deliver your next cloud-native solution.  Start from scratch with out-of-the box functionality, or select the features you need.  Leverage the Fathym Framework to establish your enterprise best practices and deliver solutions with your existing technology skills.
 
-Are you an expert cloud architect?  See how our tools can support you in establishing your own [best practices and automation](developers/infrastructure)
+Are you an expert cloud architect?  See how our tools can support you in establishing your own [best practices and automation](../developers/infrastructure)
 
 ## Best Practices
 
@@ -23,7 +23,7 @@ We believe it is important to provide valuable solutions and contributions to op
 
 In order to bring greater trust and flexibility to the open source code we use, Fathym suggests development of community driven LCUs that can be orchestrated to achieve dynamic product solutions.  It is a semantic architecture and approach for building reusable micro-frontends and micro-services with base SDKs for developing your own LCUs (currently only available in TypeScript/Angular and C#).
 
-LCUs allow you to build your frontend components in a reusable way, in the languages you prefer, and then easily upgrade, manage and even migrate frameworks.  We embrace component driven, state-based, atomic reusability in LCUs, read more on [LCU](developers/applications/low-code-units) and [micro-frontend](developers/applications/micro-frontends) capabilities.
+LCUs allow you to build your frontend components in a reusable way, in the languages you prefer, and then easily upgrade, manage and even migrate frameworks.  We embrace component driven, state-based, atomic reusability in LCUs, read more on [LCU](../developers/applications/low-code-units) and [micro-frontend](../developers/applications/micro-frontends) capabilities.
 
 ## Virtual Developers
 
@@ -31,4 +31,4 @@ Different than most low code/no code platforms, Fathym helps you develop repeata
 
 ## No Vendor Lock-In
 
-Our virtual developers are always helping your team develop code under enterprise best practice standards, not just locking your best practices away in our config.  Most of the code, solutions and components you use have no vendor lock-in.  Read more on [no vendor lock-in](developers/no-vendor-lock-in)
+Our virtual developers are always helping your team develop code under enterprise best practice standards, not just locking your best practices away in our config.  Most of the code, solutions and components you use have no vendor lock-in.  Read more on [no vendor lock-in](../developers/no-vendor-lock-in)
