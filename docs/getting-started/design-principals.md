@@ -1,5 +1,5 @@
 ---
-title: Introduction - Design Principals
+title: Getting Started - Design Principals
 sidebar_label: Design Principals
 ---
 

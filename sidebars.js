@@ -1,6 +1,6 @@
 module.exports = {
   sidebar: {
-    Introduction: ['introduction/overview', 'introduction/design-principals'],
+    Introduction: ['introduction/overview'],
     'Getting Started': [
       'getting-started/overview',
       {
@@ -21,12 +21,9 @@ module.exports = {
         'For Devs': ['getting-started/for-devs/overview'],
       },
       'getting-started/what-is-fathym-framework',
+      'getting-started/design-principals',
     ],
-    Guides: [
-      'guides/overview',
-      'guides/starting-without-azure',
-      'guides/migrating-from-fathym',
-    ],
+    Guides: ['guides/overview', 'guides/starting-without-azure', 'guides/migrating-from-fathym'],
     Developers: [
       'developers/overview',
       'developers/no-vendor-lock-in',

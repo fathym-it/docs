@@ -7,7 +7,7 @@ slug: /gettings-started
 
 # Fathym Account Setup
 
-The Fathym Framework is focused on helping you take charge of your clouds, applications, and deployment strategies.  It enables developers to rapidly build data-driven applications by applying best practice workflows for cloud infrastructure automation and application management.
+It enables developers to rapidly build data-driven applications by applying best practice workflows for cloud infrastructure automation and application management.
 
 In this getting started guide, we'll walk you through creating an automated, enterprise-grade, Azure-hosted environment with just a few clicks.  To kick things off, register and select a [Starter or Pro](https://www.fathym-it.com/billing/lcu) package.  Once registered we'll help you setup the following to get you going:
 
