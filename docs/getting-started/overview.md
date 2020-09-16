@@ -13,13 +13,15 @@ In the getting started guide, we'll walk you through creating an automated, ente
 
 Need help during setup?  Read the following for [support and details](getting-started/enterprise-setup-explained) on the setup process.
 
-## 
-
 ## Next Steps
 
-There are a number of ways to leverage your LCU Runtime once complete, and for this guide we'll focus on leveraging the Fathym LCU CLI to create and deliver your first micro-frontends (one standalone app and one IDE blade).  If this isn't what your looking to accomplish, once your IDE is ready, you'll be greeted with a number of developer journeys to get you started.
+There are a number of ways to leverage your LCU Runtime once setup completes.  If this isn't what your looking to accomplish, once your IDE is ready, you'll be greeted with a number of developer journeys to get you started.
 
 ### Try Micro-Frontends
+
+In this part of the guide, we walk you through deploying and leveraging pre-existing Low Code Units and how to use the Fathym LCU CLI to create and deliver your first micro-frontends (standalone app and IDE blade).
+
+[Try out](getting-started/try-it/micro-frontends) Fathym Framework micro-frontends now.
 
 ### Try IoT
 
