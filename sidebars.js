@@ -45,6 +45,7 @@ module.exports = {
               },
             ],
             'Micro-Frontends': ['developers/applications/micro-frontends/overview', 'developers/applications/micro-frontends/quick-start'],
+            Runtime: ['developers/applications/runtime/overview'],
             Identity: ['developers/applications/identity/overview'],
             Security: ['developers/applications/security/overview'],
             'State APIs': ['developers/applications/state-apis/overview'],

@@ -135,6 +135,8 @@ Once you copy the secret’s value it is not retrievable again.
 
 ### Choose Your Infrastructure Template
 
+![Workspace Setup - Choose Infrastructure](/img/screenshots/workspace-setup-choose-infrastructure.png)
+
 - Choose your server location
 - Choose your Infrastructure Template
   - The Low Code Unit Runtime Template installs all of the Azure resources that are required to run the Fathym Framework and is sufficient for building and hosting applications and APIs.
@@ -144,6 +146,8 @@ Once you copy the secret’s value it is not retrievable again.
 ## Launch your Automated Best Practice Environment
 
 Once you've reviewed your setup, click to Finalize and Deploy your Workspace.
+
+![Workspace Setup - Finalize & Deploy](/img/screenshots/workspace-setup-finalize-deploy.png)
 
 With Fathym, you can quickly and easily set up a best practice cloud infrastructure environment..  Here you'll be able to deploy the tools and solutions of your choosing, like our application orchestration and data flow management LCUs. With just a few clicks, Fathym sets you up a cloud-native enable Azure cloud environment, so it is always accessible and always yours.
 
@@ -157,7 +161,7 @@ The video below compares configuring these resources in Fathym versus the Azure 
   <iframe src="https://www.youtube.com/embed/UTUD4kBfEBo" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Re-write this to another page under developers and link to it... [Fathym Support Exploained](https://support.fathym.com/docs/en/registration)
+Re-write this to another page under developers and link to it... [Fathym Support Explained](https://support.fathym.com/docs/en/registration)
 
 ## Next Steps
 

@@ -23,13 +23,13 @@ Our team best practices lean towards Azure, C#, and TypeScript/Angular, but we r
 
 ## Community Open Source
 
-We believe it is important to provide valuable solutions and contributions to open source project.  On top of open sourcing most of our technology, we believe in adopting and supporting other existing open source projects.  We know we don't have all the answers, and by working with different communities we can achieve more.  Sharing knowledge is the purpose of open source, and we hope to make more of that knowledge accesible to more users.
+We believe it is important to provide valuable solutions and contributions to open source projects.  On top of open sourcing most of our technology, we believe in adopting and supporting other existing open source projects.  We know we don't have all the answers, and by working with different communities we can achieve more.  Sharing knowledge is the purpose of open source, and we hope to make more of that knowledge accesible to more users.
 
 ## Low Code Units (LCUs)
 
-In order to bring greater trust and flexibility to the open source code we use, Fathym suggests development of community driven LCUs that can be orchestrated to achieve dynamic product solutions.  It is a semantic architecture and approach for building reusable web components and controls, with base SDKs for developing your own LCUs (currently only available in TypeScript/Angular).
+In order to bring greater trust and flexibility to the open source code we use, Fathym suggests development of community driven LCUs that can be orchestrated to achieve dynamic product solutions.  It is a semantic architecture and approach for building reusable micro-frontends and micro-services with base SDKs for developing your own LCUs (currently only available in TypeScript/Angular and C#).
 
-LCUs allow you to build your frontend components in a reusable way, in the languages you prefer, and then easily upgrade, manage and even migrate frameworks.  We embrace component driven, state-based, atomic reusability in LCUs, read more on [LCUs](developers/applications/low-code-units) and [micro-frontend](developers/applications/micro-frontends) capabilities.
+LCUs allow you to build your frontend components in a reusable way, in the languages you prefer, and then easily upgrade, manage and even migrate frameworks.  We embrace component driven, state-based, atomic reusability in LCUs, read more on [LCU](developers/applications/low-code-units) and [micro-frontend](developers/applications/micro-frontends) capabilities.
 
 ## Virtual Developers
 
@@ -37,4 +37,4 @@ Different than most low code/no code platforms, Fathym helps you develop repeata
 
 ## No Vendor Lock-In
 
-Because our virtual developers are always helping your team develop code under enterprise best practice standards, and not just locking your best practices away in our config.  Most of the code, solutions and components you use require no vendor lock.  Read more on [no vendor lock-in](developers/no-vendor-lock-in)
+Our virtual developers are always helping your team develop code under enterprise best practice standards, not just locking your best practices away in our config.  Most of the code, solutions and components you use have no vendor lock-in.  Read more on [no vendor lock-in](developers/no-vendor-lock-in)
