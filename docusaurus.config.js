@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Fathym Framework',
-  tagline: 'Deliver cloud-native applications reliably across hybrid-clouds',
+  tagline: 'A platform and framework focused on helping you take charge of your hybrid-clouds, applications, and deployment strategies.',
   url: 'https://www.fathym.com',
   baseUrl: '/framework/',
   onBrokenLinks: 'throw',
