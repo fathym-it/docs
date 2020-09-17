@@ -9,9 +9,19 @@ slug: /gettings-started
 
 Fathym Framework enables developers to rapidly build data-driven applications by applying best practice workflows for cloud infrastructure automation and application management.
 
-In the getting started guide, we'll walk you through creating an automated, enterprise-grade, Azure-hosted environment with just a few clicks.  Then show you how you can deploy and manage applications across a variety of technologies.  To kick things off, register and select a [Starter or Pro](https://www.fathym-it.com/billing/lcu) package.  Once registered, we'll help you get things setup.
+In the getting started guide, we'll walk you through creating an automated, enterprise-grade, Azure-hosted environment with just a few clicks.  Then show you how you can deploy and manage applications across a variety of technologies.  To kick things off, register and select a [Starter or Pro](https://www.fathym-it.com/billing/lcu) package, also make sure you have an Azure account and subscription created.  Once registered, we'll help you get things setup.
+
+:::important
+
+In order to have access to the necessary permissions and settings required for setup in Azure, your Azure account needs to be at the administrator level.
+
+:::
+
+:::note
 
 Need help during setup?  Read the following for [support and details](getting-started/enterprise-setup-explained) on the setup process.
+
+:::
 
 ## Next Steps
 
