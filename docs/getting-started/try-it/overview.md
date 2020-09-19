@@ -1,5 +1,5 @@
 ---
-title: Getting Started - Try It
+title: Getting Started Journeys
 sidebar_label: Overview
 slug: /getting-started/try-it
 ---
@@ -14,7 +14,7 @@ Summarize where we'll start, what we'll accomplish, and where we'll end...
 
 ### Deploy Existing LCU Applications
 
-### Deplooy LCUs as IDE BLades
+### Deploy LCUs as IDE BLades
 
 ### Customize Existing Applications
 
