@@ -9,9 +9,9 @@ slug: /gettings-started
 
 Fathym Framework enables developers to rapidly build modular and reusable applications by automating best practice workflows for cloud-native application orchestration.
 
-In the getting started guide, we'll walk you through creating an automated, enterprise-grade, Azure-hosted environment with just a few clicks.  Then show you how you can deploy and manage applications across a variety of technologies.  In the initial setup, you'll have to template options.  One for just the application orchestration capabilities and another for the IoT data flow capabilities.  To get the most out of this guide, we recommend start with the IoT template.
+In the getting started guide, we'll walk you through creating an automated, enterprise-grade, Azure-hosted environment with just a few clicks.  You'll have two template options: one for just the application orchestration capabilities and another that additionally includes our IoT data flow capabilities.  To get the most out of this guide and an understanding of Fathym, we recommend starting with the IoT template.  
 
-To kick things off, register and select a [Starter or Pro](https://www.fathym-it.com/billing/lcu) package, also make sure you have an Azure account and subscription created.  Once registered, we'll help you get everything going.
+Next we'll show you how you can deploy and manage applications across a variety of technologies.  To kick things off, register and select a [Starter or Pro](https://www.fathym-it.com/billing/lcu) package, also make sure you have an Azure account and subscription created.  Once registered, we'll help you get everything going.
 
 :::important
 
@@ -31,13 +31,13 @@ There are a number of ways to leverage your IDE once setup completes, but we rec
 
 ### Try Micro-Frontends
 
-An application orchestration environment has been setup that will support you in developing your cloud-native solutions.  In this part of the guide, we walk you through deploying and leveraging pre-existing Low Code Units and how to use the Fathym LCU CLI to create and deliver your first micro-frontends (standalone app and IDE blade).
+An application orchestration environment has been setup that will support you in developing your cloud-native solutions.  In this part of the guide, we walk you through deploying and leveraging pre-existing Low Code Units and how to use the Fathym LCU CLI to create and deliver your first micro-frontends.
 
 [Try out](getting-started/try-it/micro-frontends) Fathym Framework micro-frontends now.
 
 ### Try IoT Starter
 
-An application orchestration environment has been setup that will support you in developing your cloud-native solutions.  In this part of the guide, we walk you through deploying and leveraging pre-existing Low Code Units and how to use the Fathym LCU CLI to create and deliver your first micro-frontends (standalone app and IDE blade).
+In addition to the application orchestration capabilites, when selecting the IoT starter template you get a functioning IoT workflow to being working with.  This will allow you to rapidly support custom data ingest, customization, and visualization.  Understanding and seeing your data is the first tep in a journey to successful IoT.
 
 [Try out](getting-started/try-it/iot) Fathym Framework IoT starter now.
 
