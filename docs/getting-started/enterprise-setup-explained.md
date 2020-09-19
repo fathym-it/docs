@@ -22,6 +22,10 @@ We'll walk you through the initial setup flow in Fathym, details on how to work 
 
 For setups that would like a hybrid-cloud without Azure connectivity, please visit [Starting without Azure](../guides/starting-without-azure)
 
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/UTUD4kBfEBo" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 ## Enterprise Details
 
 With the Frathym Framework, everything starts from your enterprise.  Whether a one man show, or a dev team, your enterprise will allow you to manage infrastructure, devops and applications.  We'll start you on a domain within our control, and provide you the journeys to run on your own domains and even white-label our framework and practices for your end users.
@@ -153,9 +157,5 @@ Fathym offers two infrastructure template options. The Low Code Unit Runtime Tem
 Having selected the infrastructure template that is right for you, in 15 minutes or less Fathym will automate your enterprise–ready cloud environment while you kick back and have a beer.
 
 The video below compares configuring these resources in Fathym versus the Azure portal, which is tedious and time consuming for even the most seasoned Azure user. To see just how simple this process is with Fathym, check out this video:
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/UTUD4kBfEBo" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
 
 Re-write this to another page under developers and link to it... [Fathym Support Explained](https://support.fathym.com/docs/en/registration)

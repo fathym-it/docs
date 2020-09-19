@@ -5,5 +5,3 @@ sidebar_label: Deploy App
 ---
 
 # Micro-Frontends - Deploy App
-
-## Pull Requests

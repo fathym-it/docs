@@ -1,6 +1,6 @@
 ---
-title: Getting Started - What is Farthym Framework?
-sidebar_label: What is Farthym Framework?
+title: Getting Started - What is Fathym Framework?
+sidebar_label: What is Fathym Framework?
 ---
 
 **Fathym saves you time** by doing the heavy lifting of backend infrastructure and application management so that you don't need to spend time and resources to "level up" and become an expert cloud architect.  
