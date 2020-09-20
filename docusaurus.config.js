@@ -82,7 +82,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/lowcodeunit/docs/edit/master/docs/',
+          editUrl: 'https://github.com/lowcodeunit/docs/edit/master/',
           // routeBasePath: '/'
         },
         blog: {
