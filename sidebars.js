@@ -32,6 +32,7 @@ module.exports = {
           'getting-started/for-devs/design-principals',
           'getting-started/for-devs/what-is-a-journey',
           'getting-started/for-devs/enterprise-setup-explained',
+          'getting-started/for-devs/how-is-fathym-cloud-native',
         ],
       },
     ],
