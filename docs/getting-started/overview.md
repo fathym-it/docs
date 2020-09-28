@@ -37,10 +37,10 @@ An application orchestration environment has been setup that will support you in
 
 ### IoT Starter Journey
 
-In addition to the application orchestration capabilites, when selecting the IoT starter template you get a functioning IoT workflow to begin working with.  This will allow you to rapidly support custom data ingest, data transform, data storage, and visualization.  Understanding and seeing your data is the first step in a journey towards successful IoT.
+In addition to the application orchestration capabilites, when selecting the IoT Starter template you get a functioning IoT workflow to begin working with.  This will allow you to rapidly support custom data ingest, transform, storage, and visualizations.  Understanding and seeing your data is the first step in a journey towards successful IoT.
 
 [Try out](getting-started/try-it/iot) Fathym Framework IoT starter now.
 
 ### Where to go from here?
 
-If this isn't what your looking to accomplish, once your IDE is ready, you'll be greeted with additional developer journeys to get you started.
+If this isn't what your looking to accomplish, once your IDE is ready, you'll be greeted with additional developer journeys to get you going.
