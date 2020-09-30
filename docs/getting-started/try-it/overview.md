@@ -4,7 +4,7 @@ sidebar_label: Overview
 slug: /getting-started/try-it
 ---
 
-During Fathym's setup process, we prepared some starting point best practices for your infrastructure, DevOps, and application orchestration (check out our guide, for a [detailed explanation](enterprise-setup-explained)).  This portion of the getting started guide will take you through some of the basics, and provide you some ways to dig in further.
+During Fathym's setup process, we prepared some starting point best practices for your infrastructure, DevOps, and application orchestration (check out our guide, for a [detailed explanation](for-devs/enterprise-setup-explained)).  This portion of the getting started guide will take you through some of the basics, and provide you some ways to dig in further.
 
 <!-- 
 Some context on what was setup... DevOps, Azure resources, LCU Runtime, default micro-apps and pre-conifgured microapps
@@ -19,7 +19,7 @@ Throughout the process of working with the Fathym Framework, you will be present
 
 ## Micro-Frontends Journey
 
-As mentioned, an application orchestration environment has been setup.  With this, cloud-native infrastructure has been provisioned, some stating point DevOps has been put in place, our [LCU Runtime](../developers/applications/runtime) has been deployed, and a series of LCUs have been configured to get you going on the Fathym Framework.  In this journey, we'll deploy additional applications and LCUs, customize them and create our own with the Fathym [LCU CLI](../developers/applications/cli).
+As mentioned, an application orchestration environment has been setup.  With this, cloud-native infrastructure has been provisioned, some starting point DevOps have been put in place, our [LCU Runtime](../developers/applications/runtime) has been deployed, and a series of LCUs have been configured to get you going on the Fathym Framework.  In this journey, we'll deploy additional applications and LCUs, customize them and create our own with the Fathym [LCU CLI](../developers/applications/cli).
 
 [Try out](try-it/micro-frontends) Fathym Framework micro-frontends now.  Not sure what a micro-frontend is?  Check out our guide on [micro-frontends](../developers/applications/micro-frontends) for more information.  
 

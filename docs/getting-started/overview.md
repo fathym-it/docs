@@ -21,13 +21,15 @@ In order to have access to the necessary permissions and settings required for s
 
 :::note
 
-Need help during setup?  Read the following for [support and details](getting-started/enterprise-setup-explained) on the setup process.
+Need help during setup?  Read the following for [support and details](getting-started/for-devs/enterprise-setup-explained) on the setup process.
 
 :::
 
 ## Next Steps
 
 There are a number of ways to leverage your IDE once setup completes, however we recommend you start with our more detailed [try it](getting-started/try-it) introduction.  If your eager to jump in on a specific topic, here's a high level look at where our initial getting started journeys will take you.
+
+![IDE Welcome Journeys](/img/screenshots/ide-welcome-journeys.png)
 
 ### Micro-Frontends Journey
 
