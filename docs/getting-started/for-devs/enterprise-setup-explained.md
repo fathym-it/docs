@@ -20,7 +20,7 @@ We'll walk you through the initial setup flow in Fathym, details on how to work 
   - Provide best practices in building essential data flows and cloud storage
   - Maximize reusability and save time in data application development -->
 
-For setups that would like a hybrid-cloud without Azure connectivity, please visit [Starting without Azure](../guides/starting-without-azure)
+For setups that would like a hybrid-cloud without Azure connectivity, please visit [Starting without Azure](../../guides/starting-without-azure)
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/UTUD4kBfEBo" frameborder="0" allowfullscreen="true"> </iframe>
