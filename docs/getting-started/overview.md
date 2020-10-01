@@ -25,11 +25,15 @@ Need help during setup?  Read the following for [support and details](getting-st
 
 :::
 
+## Fathym IDE
+
+The IDE is your starting point for delivering and managing your cloud-native applications.  We've preconfigured your IDE in a getting started best pracice, and we'll show you how to customize and add to it to create a streamlined enterprise management experience.
+
+![IDE Welcome Journeys](/img/screenshots/ide-welcome-journeys.png)
+
 ## Next Steps
 
 There are a number of ways to leverage your IDE once setup completes, however we recommend you start with our more detailed [try it](getting-started/try-it) introduction.  If your eager to jump in on a specific topic, here's a high level look at where our initial getting started journeys will take you.
-
-![IDE Welcome Journeys](/img/screenshots/ide-welcome-journeys.png)
 
 ### Micro-Frontends Journey
 

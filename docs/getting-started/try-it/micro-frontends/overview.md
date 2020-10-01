@@ -25,7 +25,7 @@ When setting up your environment, we went ahead and added a couple of default ID
 
 ## Customize Existing Applications
 
-The purpose of open source is to provide developers with a leg-up and starting point, either in the form of fully baked application solutions (WordPress), or a framework and foundation by witch to grow from (Docusaurus, LCU CLI).  In this part of the guide, we'll walk you through not only how to customize existing open source applications, but also how you can (and should) contribute back to those communities.
+The purpose of open source is to provide developers with a leg-up and starting point, either in the form of fully baked application solutions (WordPress), or a framework and foundation by witch to grow from (Docusaurus, LCU CLI).  In this part of the guide, we'll walk you through not only how to customize existing open source applications, but also how you can (and why you should) contribute back to those communities.
 
 We'll get connected with your GitHub and NPM (and help you set them up if you need to), then we'll show you how GitHub, NPM and Fathym can be used to create an automated CI/CD process for delivering your cloud-native applications.
 
