@@ -58,7 +58,7 @@ By default, your application will be made available to the public, alternatively
 
 With everything configured, click save and your new application will be created.
 
-## Try it Out
+## Try it
 
 Once completed, you'll be taken back to the path view, where you'll see your new /hello-world path.
 
