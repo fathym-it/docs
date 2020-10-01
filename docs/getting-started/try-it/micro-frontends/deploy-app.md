@@ -52,7 +52,7 @@ Here we'll select the NPM Package View application type, and set it up to point 
 
 ### Application Security
 
-By default, your application will be made available to the public, alternatively you can require that a user login to the platform or even specify certain levels of access required to see certain applications.  We'll dig more into this security model later, and for now lets leave this open to the public.
+By default, your application will be made available to the public, alternatively you can require that a user login to the platform or even specify certain levels of access required to see different applications.  We'll dig more into this security model later, for now lets leave this open to the public.
 
 ![IDE Application Flow Create Not Secure](/img/screenshots/ide-app-flow-create-new-not-secure.png)
 
@@ -67,3 +67,7 @@ Once completed, you'll be taken back to the path view, where you'll see your new
  Next click the settings icon on the hello world tile, and you'll be taken into the application flow for that path.  Once there, you can click the launch icon to see the hello world app running.
 
 ![IDE Application Flow Create Hello World Application Flow](/img/screenshots/ide-app-flow-create-new-hello-world-app-flow.png)
+
+## Next Steps
+
+In addition to retrieving your packages from an NPM package (on a public or private feed), we support the ability to get your application files deployed via zip, direct git connections, and even real-time dev streams.  Choose the deployment strategy that is right for you, your project and the team.
