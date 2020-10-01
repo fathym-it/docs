@@ -8,7 +8,7 @@ sidebar_label: Deploy IDE Blade
 
 ...
 
-Ensure your Application Flow blade is open (see this article for [instructions](deploy-app.md) on how), and then we can get Fathym Forecast blade installed.
+Ensure your Application Flow blade is open (see this article for [instructions](deploy-app) on how), and then we'll install the Fathym Forecast blade.
 
 ## Manage Low Code Units
 
