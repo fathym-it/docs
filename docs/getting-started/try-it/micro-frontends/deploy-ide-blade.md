@@ -34,12 +34,36 @@ Now that we have our new LCU in the system, we first need to decide which of its
 
 ![IDE Activity Bar Settings](/img/screenshots/ide-activity-bar-settings.png)
 
-This will open the IDE Settings window and allow you to customize your IDE.  To configure the Forecast LCU, click on the drop down and select lcu-fathym-forecast-lcu from the list.  This will show you which LCUs are available from the package, and allow you to enable them for your enterprise.
+This will open the IDE Settings window and allow you to customize your IDE.  To configure the Forecast LCU, click on the drop down and select lcu-fathym-forecast-lcu from the list.  This will show you which LCUs are available from the package, and allow you to enable them for your enterprise.  For now let's just enable the 'api-keys' solution, and then click save.
 
 ![IDE Settings Configure Forecast](/img/screenshots/ide-settings-configure-forecast.png)
 
 ## Setup IDE
 
+From the same settings window, select the setup option from the left, and switch to the Activity bar.  From here we'll add a new activity bar, set the title to 'Developer Tools', the lookup to 'dev-tools', the icon to 'code' and click the save button.
+
+![IDE Settings Setup Forecast Activity](/img/screenshots/ide-settings-setup-forecast-activity.png)
+
+Now we can configure the side bar and links, select the Developer Tools option out of the side bar section.  Now select the Add New Side Bar Section action, set the section name to 'Fathym Forecast' and click save.
+
+![IDE Settings Setup Forecast Side Bar Section](/img/screenshots/ide-settings-setup-forecast-side-bar-section.png)
+
+Finally the action to our forecast blade can be configured.  Expand the Fathym Forecast section, select Add New Action, set the title to 'API Keys', select 'lcu-fathym-forecast-lcu' from the first drop down and 'api-keys' from the last.  Now click save, and our new IDE blade is read to use.
+
+![IDE Settings Setup Forecast Side Bar Section Action](/img/screenshots/ide-settings-setup-forecast-side-bar-section-action.png)
+
 ## Try It
 
+Close the IDE Settings window, and your IDE will automatically refresh with your updates.  You will see your new Developer Tools option in the activity bar, select it.  
+
+![IDE Activity Dev Tools](/img/screenshots/ide-activity-dev-tools.png)
+
+Now click into the Fathym Forecast and select API Keys.  (If you already signed up for a Forecast license, your display will show your api keys).
+
+![IDE Fathym Forecast Blade](/img/screenshots/ide-fathym-forecast-blade.png)
+
+To learn more about using our Fathym Forecast, start here.  
+
 ## Next Steps
+
+You can configure your IDE with any number of LCUs, and customize its navigation.  You can also pull in iframes to applications hosted on your domain.  Now we'll take a look at customizing an existing application and bringing it into our IDE.

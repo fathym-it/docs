@@ -70,4 +70,4 @@ Once completed, you'll be taken back to the path view, where you'll see your new
 
 ## Next Steps
 
-In addition to retrieving your packages from an NPM package (on a public or private feed), we support the ability to get your application files deployed via zip, direct git connections, and even real-time dev streams.  Choose the deployment strategy that is right for you, your project and the team.
+In addition to retrieving your packages from an NPM package (on a public or private feed), we support the ability to get your application files deployed via zip, direct git connections, and even real-time dev streams.  Choose the deployment strategy that is right for you, your project and your team.
