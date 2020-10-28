@@ -12,7 +12,7 @@ module.exports = {
       // title: 'Fathym Framework',
       logo: {
         alt: 'Fathym Framework',
-        src: 'img/logo.png',
+        src: 'img/Fathym-logo-aqua-01.png',
       },
       items: [
         {
