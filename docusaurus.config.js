@@ -12,7 +12,7 @@ module.exports = {
       // title: 'Fathym Framework',
       logo: {
         alt: 'Fathym Framework',
-        src: 'img/logo.png',
+        src: 'img/Fathym-logo-aqua-01.png',
       },
       items: [
         {
@@ -72,7 +72,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Fathym, Inc. Built with Docusaurus.`,
     },
   },
   presets: [

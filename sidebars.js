@@ -1,5 +1,5 @@
 module.exports = {
-  sidebar: {
+  docs: {
     Introduction: ['introduction/overview'],
     'Getting Started': [
       'getting-started/overview',
@@ -37,6 +37,9 @@ module.exports = {
       },
     ],
     Guides: ['guides/overview', 'guides/starting-without-azure', 'guides/migrating-from-fathym'],
+    Contributing: ['contributing/overview', 'contributing/code-of-conduct', 'contributing/style-guide', 'contributing/pull-requests'],
+  },
+  devs: {
     Developers: [
       'developers/overview',
       'developers/no-vendor-lock-in',
@@ -74,6 +77,5 @@ module.exports = {
       },
       'developers/developer-tools',
     ],
-    Contributing: ['contributing/overview', 'contributing/code-of-conduct', 'contributing/style-guide', 'contributing/pull-requests'],
   },
 };
